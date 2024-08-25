@@ -21,7 +21,7 @@ global.ownername = 'SIGMA' //owner name
 global.botname = 'SIGMA🗿ROYAL' //name of the bot
 
 //sticker details
-global.packname = 'Royal👑'
+global.packname = '𝙎𝞘𝙂𝞛𝞓'
 global.author = 'SIGMA\n\nContact: +224610303003'
 
 //console view/theme
