@@ -11,18 +11,18 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "2250500107362","224610303003"
-global.ownername = "𝙎𝞘𝙂𝞛𝞓"
+global.ownername = "SIGMA"
 global.ytname = "YT: X-TECH-CORP "
 global.socialm = "GitHub: X-TECH-CORP"
 global.location = "United states, New York, Times Square"
 
 global.ownernumber = '224610303003'  //creator number
-global.ownername = '𝙎𝞘𝙂𝞛𝞓' //owner name
-global.botname = '𝙎𝞘𝙂𝞛𝞓🗿' //name of the bot
+global.ownername = 'SIGMA' //owner name
+global.botname = 'SIGMA🗿ROYAL' //name of the bot
 
 //sticker details
 global.packname = 'Royal👑'
-global.author = '𝙎𝞘𝙂𝞛𝞓\n\nContact: +224610303003'
+global.author = 'SIGMA\n\nContact: +224610303003'
 
 //console view/theme
 global.themeemoji = '🔞'
